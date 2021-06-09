@@ -4,7 +4,7 @@
   "description": "a declarative html parser",
   "main": "lib/index.js",
   "bin": {
-    "frame-parser": "bin/cli"
+    "frame-parser": "bin/frameParser"
   },
   "scripts": {
     "test": "jest "
