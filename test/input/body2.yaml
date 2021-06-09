@@ -1,4 +1,0 @@
-parser: splitListicle
-opt:
-    headerSplitBy: <div
-    bodySplitBy: <p>

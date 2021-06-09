@@ -2,7 +2,7 @@
 const program = require('commander')
 const yaml = require('js-yaml')
 const fs = require('fs')
-const parser = require('./index')
+const parser = require('../lib/index')
 const glob = require('glob')
 
 program

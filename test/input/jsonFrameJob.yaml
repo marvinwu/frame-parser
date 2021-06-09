@@ -1,5 +1,0 @@
-# param:
-#   pricingNames: ".item+ .item .planPrice"
-opt:
-  select: '.fusion-checklist-1'        
-  html: true

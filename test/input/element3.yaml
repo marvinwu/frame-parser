@@ -1,9 +1,0 @@
-parser: jsonframeParser
-opt:
-  name: "p strong"
-  image:
-    src: "img"
-    credit: "div .caption"
-    alt: "img @ alt"
-  content: 
-    - p
