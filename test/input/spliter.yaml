@@ -1,0 +1,15 @@
+# '.menu':
+#   test: 
+#     _s: '#pricing .item'
+#     _d: 
+#       -
+#         name: '.planName'
+#         price: '.planPrice'
+'body':
+  blocks: 
+    _b: 'h1,h2,h3,h4'
+    _d: 
+      -
+        name: 'h1,h2,h3,h4'
+        price: 
+          - p 

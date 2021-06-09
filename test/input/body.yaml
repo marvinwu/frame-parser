@@ -1,0 +1,5 @@
+parser: splitListicle
+opt:
+  headerSplitBy: <h2>
+  bodySplitBy: <h2>
+

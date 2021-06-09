@@ -1,0 +1,570 @@
+[
+    {
+        "type": "element",
+        "tagName": "h2",
+        "attributes": [],
+        "children": [
+            {
+                "type": "text",
+                "content": "This Soda Is Particularly Bad For You"
+            }
+        ]
+    },
+    {
+        "type": "text",
+        "content": "This Soda Is Particularly Bad For You"
+    },
+    {
+        "type": "text",
+        "content": "\\n"
+    },
+    {
+        "type": "element",
+        "tagName": "div",
+        "attributes": [
+            {
+                "key": "class",
+                "value": "\\\"picture-container cf\\\""
+            }
+        ],
+        "children": [
+            {
+                "type": "text",
+                "content": "\\n\n    "
+            },
+            {
+                "type": "element",
+                "tagName": "picture",
+                "attributes": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "content": "\n        "
+                    },
+                    {
+                        "type": "element",
+                        "tagName": "source",
+                        "attributes": [
+                            {
+                                "key": "srcset",
+                                "value": "\\\"//www.postfun.com/wp-content/uploads/2019/08/GettyImages-534929680-75649.jpg?b=0&amp;c=4&amp;width=480&amp;height=720&amp;top=0&amp;left=238&amp;zoom=1.04651162791\\\""
+                            },
+                            {
+                                "key": "media",
+                                "value": "\\\"(max-width: 481px)\\\""
+                            }
+                        ],
+                        "children": []
+                    },
+                    {
+                        "type": "element",
+                        "tagName": "img",
+                        "attributes": [
+                            {
+                                "key": "src",
+                                "value": "\\\"//www.postfun.com/wp-content/uploads/2019/08/GettyImages-534929680-75649.jpg?b=0&amp;c=4&amp;width=1024&amp;height=688&amp;top=0&amp;left=0&amp;zoom=1\\\""
+                            },
+                            {
+                                "key": "alt",
+                                "value": "\\\"kids with soda\\\""
+                            },
+                            {
+                                "key": "title",
+                                "value": "\\\"soda 534929680\\\""
+                            }
+                        ],
+                        "children": []
+                    },
+                    {
+                        "type": "text",
+                        "content": "\n    "
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "content": "\n    "
+            },
+            {
+                "type": "element",
+                "tagName": "div",
+                "attributes": [
+                    {
+                        "key": "class",
+                        "value": "\\\"photo-controls load-img\\\""
+                    }
+                ],
+                "children": []
+            },
+            {
+                "type": "text",
+                "content": "\\n"
+            },
+            {
+                "type": "element",
+                "tagName": "div",
+                "attributes": [
+                    {
+                        "key": "class",
+                        "value": "\\\"photo-extras-wrap\\\""
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "content": "\\n"
+                    },
+                    {
+                        "type": "element",
+                        "tagName": "div",
+                        "attributes": [
+                            {
+                                "key": "class",
+                                "value": "\\\"photo-extras\\\""
+                            }
+                        ],
+                        "children": [
+                            {
+                                "type": "text",
+                                "content": "\\n"
+                            },
+                            {
+                                "type": "element",
+                                "tagName": "div",
+                                "attributes": [
+                                    {
+                                        "key": "class",
+                                        "value": "\\\"caption\\\""
+                                    }
+                                ],
+                                "children": [
+                                    {
+                                        "type": "text",
+                                        "content": "Mark Peterson/Corbis via Getty Images"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "content": "\\n"
+                            },
+                            {
+                                "type": "element",
+                                "tagName": "div",
+                                "attributes": [
+                                    {
+                                        "key": "class",
+                                        "value": "\\\"caption mobile\\\""
+                                    }
+                                ],
+                                "children": [
+                                    {
+                                        "type": "text",
+                                        "content": "Mark\n                Peterson/Corbis via Getty Images"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "content": "\\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "\\n"
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "content": "\\n\n"
+            }
+        ]
+    },
+    {
+        "type": "text",
+        "content": "\\n\n    "
+    },
+    {
+        "type": "element",
+        "tagName": "picture",
+        "attributes": [],
+        "children": [
+            {
+                "type": "text",
+                "content": "\n        "
+            },
+            {
+                "type": "element",
+                "tagName": "source",
+                "attributes": [
+                    {
+                        "key": "srcset",
+                        "value": "\\\"//www.postfun.com/wp-content/uploads/2019/08/GettyImages-534929680-75649.jpg?b=0&amp;c=4&amp;width=480&amp;height=720&amp;top=0&amp;left=238&amp;zoom=1.04651162791\\\""
+                    },
+                    {
+                        "key": "media",
+                        "value": "\\\"(max-width: 481px)\\\""
+                    }
+                ],
+                "children": []
+            },
+            {
+                "type": "element",
+                "tagName": "img",
+                "attributes": [
+                    {
+                        "key": "src",
+                        "value": "\\\"//www.postfun.com/wp-content/uploads/2019/08/GettyImages-534929680-75649.jpg?b=0&amp;c=4&amp;width=1024&amp;height=688&amp;top=0&amp;left=0&amp;zoom=1\\\""
+                    },
+                    {
+                        "key": "alt",
+                        "value": "\\\"kids with soda\\\""
+                    },
+                    {
+                        "key": "title",
+                        "value": "\\\"soda 534929680\\\""
+                    }
+                ],
+                "children": []
+            },
+            {
+                "type": "text",
+                "content": "\n    "
+            }
+        ]
+    },
+    {
+        "type": "text",
+        "content": "\n        "
+    },
+    {
+        "type": "element",
+        "tagName": "source",
+        "attributes": [
+            {
+                "key": "srcset",
+                "value": "\\\"//www.postfun.com/wp-content/uploads/2019/08/GettyImages-534929680-75649.jpg?b=0&amp;c=4&amp;width=480&amp;height=720&amp;top=0&amp;left=238&amp;zoom=1.04651162791\\\""
+            },
+            {
+                "key": "media",
+                "value": "\\\"(max-width: 481px)\\\""
+            }
+        ],
+        "children": []
+    },
+    {
+        "type": "element",
+        "tagName": "img",
+        "attributes": [
+            {
+                "key": "src",
+                "value": "\\\"//www.postfun.com/wp-content/uploads/2019/08/GettyImages-534929680-75649.jpg?b=0&amp;c=4&amp;width=1024&amp;height=688&amp;top=0&amp;left=0&amp;zoom=1\\\""
+            },
+            {
+                "key": "alt",
+                "value": "\\\"kids with soda\\\""
+            },
+            {
+                "key": "title",
+                "value": "\\\"soda 534929680\\\""
+            }
+        ],
+        "children": []
+    },
+    {
+        "type": "text",
+        "content": "\n    "
+    },
+    {
+        "type": "text",
+        "content": "\n    "
+    },
+    {
+        "type": "element",
+        "tagName": "div",
+        "attributes": [
+            {
+                "key": "class",
+                "value": "\\\"photo-controls load-img\\\""
+            }
+        ],
+        "children": []
+    },
+    {
+        "type": "text",
+        "content": "\\n"
+    },
+    {
+        "type": "element",
+        "tagName": "div",
+        "attributes": [
+            {
+                "key": "class",
+                "value": "\\\"photo-extras-wrap\\\""
+            }
+        ],
+        "children": [
+            {
+                "type": "text",
+                "content": "\\n"
+            },
+            {
+                "type": "element",
+                "tagName": "div",
+                "attributes": [
+                    {
+                        "key": "class",
+                        "value": "\\\"photo-extras\\\""
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "content": "\\n"
+                    },
+                    {
+                        "type": "element",
+                        "tagName": "div",
+                        "attributes": [
+                            {
+                                "key": "class",
+                                "value": "\\\"caption\\\""
+                            }
+                        ],
+                        "children": [
+                            {
+                                "type": "text",
+                                "content": "Mark Peterson/Corbis via Getty Images"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "\\n"
+                    },
+                    {
+                        "type": "element",
+                        "tagName": "div",
+                        "attributes": [
+                            {
+                                "key": "class",
+                                "value": "\\\"caption mobile\\\""
+                            }
+                        ],
+                        "children": [
+                            {
+                                "type": "text",
+                                "content": "Mark\n                Peterson/Corbis via Getty Images"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "\\n"
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "content": "\\n"
+            }
+        ]
+    },
+    {
+        "type": "text",
+        "content": "\\n"
+    },
+    {
+        "type": "element",
+        "tagName": "div",
+        "attributes": [
+            {
+                "key": "class",
+                "value": "\\\"photo-extras\\\""
+            }
+        ],
+        "children": [
+            {
+                "type": "text",
+                "content": "\\n"
+            },
+            {
+                "type": "element",
+                "tagName": "div",
+                "attributes": [
+                    {
+                        "key": "class",
+                        "value": "\\\"caption\\\""
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "content": "Mark Peterson/Corbis via Getty Images"
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "content": "\\n"
+            },
+            {
+                "type": "element",
+                "tagName": "div",
+                "attributes": [
+                    {
+                        "key": "class",
+                        "value": "\\\"caption mobile\\\""
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "content": "Mark\n                Peterson/Corbis via Getty Images"
+                    }
+                ]
+            },
+            {
+                "type": "text",
+                "content": "\\n"
+            }
+        ]
+    },
+    {
+        "type": "text",
+        "content": "\\n"
+    },
+    {
+        "type": "element",
+        "tagName": "div",
+        "attributes": [
+            {
+                "key": "class",
+                "value": "\\\"caption\\\""
+            }
+        ],
+        "children": [
+            {
+                "type": "text",
+                "content": "Mark Peterson/Corbis via Getty Images"
+            }
+        ]
+    },
+    {
+        "type": "text",
+        "content": "Mark Peterson/Corbis via Getty Images"
+    },
+    {
+        "type": "text",
+        "content": "\\n"
+    },
+    {
+        "type": "element",
+        "tagName": "div",
+        "attributes": [
+            {
+                "key": "class",
+                "value": "\\\"caption mobile\\\""
+            }
+        ],
+        "children": [
+            {
+                "type": "text",
+                "content": "Mark\n                Peterson/Corbis via Getty Images"
+            }
+        ]
+    },
+    {
+        "type": "text",
+        "content": "Mark\n                Peterson/Corbis via Getty Images"
+    },
+    {
+        "type": "text",
+        "content": "\\n"
+    },
+    {
+        "type": "text",
+        "content": "\\n"
+    },
+    {
+        "type": "text",
+        "content": "\\n\n"
+    },
+    {
+        "type": "text",
+        "content": "\\n"
+    },
+    {
+        "type": "element",
+        "tagName": "p",
+        "attributes": [],
+        "children": [
+            {
+                "type": "text",
+                "content": "&lsquo;Brominated vegetable oil&rsquo; doesn&rsquo;t sound too bad. But the stuff is flame retardant! The\n    ingredient has been used in American sodas since the beginning. But new studies have shown that the mysterious\n    ingredient may be related to skin lesions, memory loss, and nerve problems. "
+            }
+        ]
+    },
+    {
+        "type": "text",
+        "content": "&lsquo;Brominated vegetable oil&rsquo; doesn&rsquo;t sound too bad. But the stuff is flame retardant! The\n    ingredient has been used in American sodas since the beginning. But new studies have shown that the mysterious\n    ingredient may be related to skin lesions, memory loss, and nerve problems. "
+    },
+    {
+        "type": "text",
+        "content": "\\n"
+    },
+    {
+        "type": "element",
+        "tagName": "p",
+        "attributes": [],
+        "children": [
+            {
+                "type": "text",
+                "content": "As a result, Coca-Cola and\n    Pepsi have pinky-promised to remove the ingredient from all of their sodas. Mountain Dew, on the other hand, still\n    boasts the ingredient on every bottle. Europe and Japan gave this ingredient a hard no, even if it cost them the\n    famous green soda."
+            }
+        ]
+    },
+    {
+        "type": "text",
+        "content": "As a result, Coca-Cola and\n    Pepsi have pinky-promised to remove the ingredient from all of their sodas. Mountain Dew, on the other hand, still\n    boasts the ingredient on every bottle. Europe and Japan gave this ingredient a hard no, even if it cost them the\n    famous green soda."
+    },
+    {
+        "type": "text",
+        "content": "\\n"
+    },
+    {
+        "type": "element",
+        "tagName": "p",
+        "attributes": [],
+        "children": [
+            {
+                "type": "element",
+                "tagName": "b",
+                "attributes": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "content": "Mountain Dew also has Yellow #5 on its ingredients list. Here&rsquo;s the issue with\n        that&hellip;"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "element",
+        "tagName": "b",
+        "attributes": [],
+        "children": [
+            {
+                "type": "text",
+                "content": "Mountain Dew also has Yellow #5 on its ingredients list. Here&rsquo;s the issue with\n        that&hellip;"
+            }
+        ]
+    },
+    {
+        "type": "text",
+        "content": "Mountain Dew also has Yellow #5 on its ingredients list. Here&rsquo;s the issue with\n        that&hellip;"
+    }
+]

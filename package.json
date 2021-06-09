@@ -1,0 +1,25 @@
+{
+  "name": "frame-parser",
+  "version": "1.0.0",
+  "description": "a declarative html parser",
+  "main": "lib/index.js",
+  "bin": {
+    "frame-parser": "bin/cli"
+  },
+  "scripts": {
+    "test": "jest "
+  },
+  "dependencies": {
+    "jsonframe-cheerio2": "^1.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "commander": "^3.0.0",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.14"
+  },
+  "keywords": [
+    "parser",
+    "html"
+  ],
+  "author": "marvin wu < marvinwuhk@gmail.com >",
+  "license": "MIT"
+}
